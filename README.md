@@ -138,10 +138,7 @@ webpage
 ![alt text](image-2.png)
 
 server page
-![alt text](image-3.png)
+![alt text](image-4.png)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
-
-
-[def]: image.png
